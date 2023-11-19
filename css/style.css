@@ -1,4 +1,3 @@
-@charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
 * {
   padding: 0;
@@ -42,7 +41,7 @@ body {
   font-weight: 700;
   margin-bottom: 4rem;
 }
-.header spam {
+.header span {
   color: #aa5cdb;
 }
 @media (max-width: 375px) {
